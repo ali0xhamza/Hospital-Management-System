@@ -45,10 +45,9 @@ logout.php                   # Logout page
 
 # Installation
 
-1. Clone this repository:
-
- git clone https://github.com/ali0xhamza/Hospital-Management-System.git
-
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ali0xhamza/Hospital-Management-System.git
 
 2. Import the hospital_db.sql into your MySQL database.
 
